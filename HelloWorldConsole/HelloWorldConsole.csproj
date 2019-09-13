@@ -49,6 +49,7 @@
     <Compile Include="TeqReq2\abccs.cs" />
     <Compile Include="TestReq3\PRReq.cs" />
     <Compile Include="TestReq\abc.cs" />
+    <Compile Include="TpReq\TPReq.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
