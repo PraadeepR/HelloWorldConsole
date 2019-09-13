@@ -14,5 +14,18 @@ namespace HelloWorldConsole
             Console.ReadLine();
             //
         }
+
+        public void Test()
+        {
+
+        }
+
+        public void Test2()
+        { }
+
+        public void Test3()
+        {
+
+        }
     }
 }
